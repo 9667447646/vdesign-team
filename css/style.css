@@ -1,0 +1,370 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand img {
+    max-width: 180px;
+}
+.navbar-nav {
+    margin-top: 30px;
+}
+.nav-item a:hover, .active a {
+    background: #00AEEF;
+    color: #fff !important;
+    border-color: #00AEEF !important;
+}
+.nav-item a {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+    padding: 6px 22px 6px 22px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.top-header{
+	padding: 40px 0px 38px;	
+}
+
+.top-header .navbar-dark .navbar-brand {
+	color: #fff;
+	color: #000000;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 21px;
+	color: #000000;
+	padding: 6px 9px 6px 6px;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	box-sizing: border-box;
+	border-radius: 3px;
+}
+.top-header .nav-item {
+	margin-left: 10px;
+}
+.top-header .navbar-dark .navbar-nav .nav-link:hover {
+	color: #69c9ee;
+}
+.Search{
+	width: 100%;
+	padding-bottom: 55px;
+}
+.Search .search-content {
+	width: 69%;
+	display: block;
+	margin: 0 auto;
+}
+
+.Team{
+	width: 100%;
+	float: left;
+}
+.Team-wrap{
+	width: 100%;
+	float: left
+}
+.Team-figure img{
+	width: 100%;
+	padding-bottom: 74px;
+}
+.Joe-figure{
+	width: 100%;
+	float: left;
+}
+.Joe-figure img {
+	width: auto;
+	padding-bottom: 29px;
+	display: block;
+	margin: 0 auto;
+}
+
+.Joe-figure h3{
+	width: 100%;
+	float: left;
+	width: 100%;
+	float: left;
+	margin-bottom: 0px;
+	font-weight: 600;
+	font-size: 36px;
+	line-height: 54px;
+	color: #000000;
+	padding-bottom: 7rem;
+	text-align: center;
+}
+
+.Software{
+	width: 100%;
+	float: left;	
+}
+.Software-wrap{
+	width: 100%;
+	float: left;	
+	padding-bottom: 7rem;
+}
+.Software-heading h2{
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 49px;
+	color: #000000;
+	margin-bottom: 0px;
+	padding-bottom: 45px;
+	text-align: center;
+}
+.document-wrap{
+	width: 100%;
+	float: left;
+}
+.document-content{
+	width: 100%;
+	float: left;
+	
+}
+.Software .form-group {
+	margin-bottom: 43px;
+}
+.Software #sel1 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    color: #434344;
+    height: 70px;
+    padding: 0 20px;
+}
+.star-caption img {
+	max-height: 16px;
+	max-width: 290px;
+}
+.star-caption li span {
+	width: 50%;
+	display: inline-block;
+}
+.Software ul {
+	margin-bottom: 0px;
+}
+.Software-wrap .star-caption {
+    max-width: 90%;
+    margin: auto;
+}
+.top_skills li {
+    list-style: unset !important;
+}
+::marker {
+    font-weight: 700;
+}
+.has-search .form-control-feedback {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+.Software li {
+	list-style: none;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	color: #000000;
+	padding-bottom: 25px;
+}
+select {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	text-indent: 1px;
+	text-overflow: '';
+}
+.Experience{
+	width: 100%;
+	float: left;
+}
+
+.Experience-wrap{
+	width: 100%;
+	float: left;
+}
+.Experience .card-heading h3{
+	font-weight: 600;
+	font-size: 25px;
+	line-height: 30px;
+	color: #000000;
+	padding: 53px 48px 11px 48px;	
+	margin-bottom: 0px;
+}
+.Experience .card-heading h4{
+	font-weight: 600;
+	font-size: 25px;
+	line-height: 30px;
+	color: #000000;
+	font-weight: 600;
+	font-size: 25px;
+	line-height: 30px;
+	color: #000000;
+	padding: 0px 48px 0px 48px;	
+	margin-bottom: 0px;		
+}
+.Experience ul {
+    margin-bottom: 0px;
+    padding-left: 20px;
+}
+.Profit-figure {
+	margin-bottom: 30px;
+}
+.drwing .form-group::after {
+    content: "\f044";
+    position: absolute;
+    right: 27px;
+    top: 22px;
+    font-family: 'Font Awesome 6 Free';
+}
+.form-group {
+	position: relative;
+}
+
+.Portfolio{
+	width: 100%;
+	float: left;
+}
+.Cta{
+	width: 100%;
+	float: left;
+	
+}
+.Experience-wrap .card .card-title {
+	font-weight: 600;
+	margin-bottom: 38px;
+}
+.Experience-wrap .card .list-content li {
+    font-size: 20px;
+    margin-bottom: 16px;
+    position: relative;
+    padding-left: 20px;
+}
+.Experience-wrap .card .list-content li:before {
+	content: "";
+	width: 12px;
+	height: 12px;
+	background: black;
+	position: absolute;
+	top: 10px;
+	left: -20px;
+	border-radius: 50%;
+}
+.Experience-wrap .card .list-content li span:last-child {
+    text-align: right;
+}
+.Experience-wrap .card .list-content li span {
+    width: 50%;
+    display: inline-block;
+    font-family: 'Poppins';
+}
+.Experience-wrap .card {
+    border: none;
+    box-shadow: 0 0 6px #e1dede;
+    padding: 10px 20px;
+    height: 100%;
+}
+.Experience-wrap .row > div {
+    margin-bottom: 30px;
+}
+/*team_page css-start*/
+.Team-logo-figure {
+    text-align: center;
+    max-width: 69%;
+    margin: auto;
+}
+.buttons-warpper {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.btn-info {
+    background-color: #00AEEF !important;
+    border-color: #00AEEF!important ;
+}
+.top_skills {
+    padding: 10px 30px;
+    margin-bottom: 0;
+}
+.top_skills li {
+    list-style: unset !important;
+    padding-bottom: 9px !important;
+}
+.teams-wrap .document-content {
+    box-shadow: 0 0 2px #000000;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+.profile_details {
+	display: flex;
+}
+.profile_details img {
+	width: auto;
+	max-height: 90px;
+}
+.profile_details img .card-title {
+	padding-bottom: 0 !important;
+}
+.profile_details_content .card-title {
+	margin-bottom: 0;
+	font-size: 19px;
+}
+.profile_details_content {
+	margin-left: 15px;
+	margin-bottom: 30px;
+}
+.teams-wrap .document-content .p-0 {
+	padding-left: 25px !important;
+}
+.teams-wrap .document-content li {
+	list-style: unset;
+}
+/*team-page css end*/
+
+
+@media (min-width: 769px){
+	.filter_add {
+	    display: flex;
+	    position: absolute;
+	    top: 4px;
+	    right: 0;
+	    gap: 15px;
+	}	
+}
+@media (min-width: 1200px){
+	.container, .container-lg, .container-md, .container-sm, .container-xl {
+    	max-width: 1440px !important;
+	}
+}
+@media (max-width: 992px){
+	.navbar-nav .nav-link {
+		padding: 10px 15px !important;
+	}
+	.top-header .nav-item {
+    	margin-left: 0;
+    	margin-bottom: 10px;
+	}
+	.Joe-figure h3 {
+	    padding-bottom: 2rem;
+	}
+	.Software-heading h2 {
+    	font-size: 23px;
+    }
+    .Software ul {
+   		padding: 0;
+	}
+	.Experience-wrap .card {
+    	padding: 0;
+    }
+}
+@media (max-width: 768px){
+	.filter_add {
+	    display: flex;
+	    gap: 15px;
+	   	justify-content: center;
+	   	margin-top: 20px;
+	   	position: unset !important;
+	}
+}
